@@ -448,6 +448,8 @@
   * [Straight Line Depreciation](financial/straight_line_depreciation.py)
   * [Time And Half Pay](financial/time_and_half_pay.py)
 
+## [First Come First Served](/first_come_first_served.py)
+
 ## Fractals
   * [Julia Sets](fractals/julia_sets.py)
   * [Koch Snowflake](fractals/koch_snowflake.py)
@@ -563,6 +565,12 @@
   * [Sdbm](hashes/sdbm.py)
   * [Sha1](hashes/sha1.py)
   * [Sha256](hashes/sha256.py)
+
+## [Highest Response Ratio Next](/highest_response_ratio_next.py)
+
+## [Job Sequence With Deadline](/job_sequence_with_deadline.py)
+
+## [Job Sequencing With Deadline](/job_sequencing_with_deadline.py)
 
 ## Knapsack
   * [Greedy Knapsack](knapsack/greedy_knapsack.py)
@@ -830,6 +838,8 @@
     * [Test Matrix Operation](matrix/tests/test_matrix_operation.py)
   * [Validate Sudoku Board](matrix/validate_sudoku_board.py)
 
+## [Multi Level Feedback Queue](/multi_level_feedback_queue.py)
+
 ## Networking Flow
   * [Ford Fulkerson](networking_flow/ford_fulkerson.py)
   * [Minimum Cut](networking_flow/minimum_cut.py)
@@ -852,6 +862,8 @@
   * [Input Data](neural_network/input_data.py)
   * [Simple Neural Network](neural_network/simple_neural_network.py)
   * [Two Hidden Layers Neural Network](neural_network/two_hidden_layers_neural_network.py)
+
+## [Non Preemptive Shortest Job First](/non_preemptive_shortest_job_first.py)
 
 ## Other
   * [Activity Selection](other/activity_selection.py)
@@ -916,6 +928,8 @@
   * [Speed Of Sound](physics/speed_of_sound.py)
   * [Speeds Of Gas Molecules](physics/speeds_of_gas_molecules.py)
   * [Terminal Velocity](physics/terminal_velocity.py)
+
+## [Priority Scheduling](/priority_scheduling.py)
 
 ## Project Euler
   * Problem 001
@@ -1229,6 +1243,8 @@
 ## Quantum
   * [Q Fourier Transform](quantum/q_fourier_transform.py)
 
+## [Round Robin](/round_robin.py)
+
 ## Scheduling
   * [First Come First Served](scheduling/first_come_first_served.py)
   * [Highest Response Ratio Next](scheduling/highest_response_ratio_next.py)
@@ -1257,6 +1273,8 @@
   * [Simulated Annealing](searches/simulated_annealing.py)
   * [Tabu Search](searches/tabu_search.py)
   * [Ternary Search](searches/ternary_search.py)
+
+## [Shortest Job First](/shortest_job_first.py)
 
 ## Sorts
   * [Bead Sort](sorts/bead_sort.py)
